@@ -1,1 +1,7 @@
 *.amx
+*.lnk
+*.code-workspace
+
+.vscode/
+
+server_log.txt

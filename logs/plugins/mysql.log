@@ -1,0 +1,4 @@
+[22:19:50] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '54.38.156.20' (10061)'
+[22:19:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '54.38.156.20' (10061)'
+[22:19:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '54.38.156.20' (10061)'
+[22:19:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '54.38.156.20' (10061)'

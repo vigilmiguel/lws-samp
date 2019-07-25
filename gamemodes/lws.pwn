@@ -37,6 +37,5 @@ public OnGameModeExit()
 
 public OnPlayerConnect(playerid)
 {
-	SendClientMessage(playerid, X11_GREEN, "You have connected!");
 	return true;
 }
